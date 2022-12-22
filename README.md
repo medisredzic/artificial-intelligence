@@ -1,2 +1,2 @@
 # artificial-intelligence
-Implementation of assignments in Artificial Intelligence
+Implementation of assignments in subject Artificial Intelligence
